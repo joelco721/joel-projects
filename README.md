@@ -1,4 +1,4 @@
-# Joel Cohen - Full-Stack Projects
+# Joel - Full-Stack Projects
 
 A small portfolio index for job applications.
 
