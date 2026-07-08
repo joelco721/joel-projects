@@ -73,6 +73,3 @@ Tech/high-level:
 - Vercel deployment
 - Custom domain setup
 
-## Note
-
-I can discuss architecture, tradeoffs, features, and implementation decisions in interviews, but the source repositories for these projects are intentionally private.
